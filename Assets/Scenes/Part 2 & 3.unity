@@ -225,12 +225,11 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1098417047}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24dbb4fafdfaa401b848d84a735c9c9c, type: 3}
+  m_Script: {fileID: 11500000, guid: 97f405a9db369431b94b6d1a26a74ccc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bronzePlayer: 0
   oreCube: {fileID: 1068421086547644, guid: 7fd66b34662d749d19dcbf66f2dc8043, type: 2}
 --- !u!4 &1098417049
 Transform:
@@ -253,9 +252,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1098417047}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6911823c1593e405680e63b30c1d0b63, type: 3}
+  m_Script: {fileID: 11500000, guid: 0628ea0cd88a94cd9a5dddc34f02863f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bronzePlayer: 0
   oreCube: {fileID: 1068421086547644, guid: 7fd66b34662d749d19dcbf66f2dc8043, type: 2}
 --- !u!1 &1341662174
 GameObject:

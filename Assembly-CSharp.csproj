@@ -51,7 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\FinalGameControllerPersonal.cs" />
+     <Compile Include="Assets\Scripts\Final Project Scripts\CameraControl.cs" />
+     <Compile Include="Assets\Scripts\Final Project Scripts\CubeBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Final Project Scripts\FinalGameControllerPersonal.cs" />
+     <Compile Include="Assets\Scripts\Final Project Scripts\OreType.cs" />
      <Compile Include="Assets\Scripts\Part1GameController.cs" />
      <Compile Include="Assets\Scripts\Part2GameControllerClass.cs" />
      <Compile Include="Assets\Scripts\Part2GameControllerPersonal.cs" />

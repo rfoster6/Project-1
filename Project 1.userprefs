@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Part1GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Final Project Scripts/FinalGameControllerPersonal.cs">
     <Files>
-      <File FileName="Assets/Scripts/FinalGameControllerPersonal.cs" Line="75" Column="89" />
-      <File FileName="Assets/Scripts/Part1GameController.cs" Line="14" Column="18" />
+      <File FileName="Assets/Scripts/Final Project Scripts/CubeBehaviour.cs" Line="50" Column="3" />
+      <File FileName="Assets/Scripts/Final Project Scripts/FinalGameControllerPersonal.cs" Line="87" Column="46" />
+      <File FileName="Assets/CameraControl.cs" Line="22" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
